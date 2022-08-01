@@ -41,6 +41,27 @@
       "createdAt": "2022-08-01T19:36:49.835Z",
       "updatedAt": "2022-08-01T19:36:49.835Z",
       "id": "tweet-83e11e76-3400-49e7-b6b8-9f79403b30dc"
+    },
+    {
+      "message": "Hello! This is the client side first tweet!",
+      "userId": "user-15a37948-7712-4e0b-a554-2fef33f31697",
+      "createdAt": "2022-08-01T19:52:56.831Z",
+      "updatedAt": "2022-08-01T19:52:56.831Z",
+      "id": "tweet-772d49bd-d9ef-451e-b4fe-4a7e85d9beed"
+    },
+    {
+      "message": "See it right away!",
+      "userId": "user-15a37948-7712-4e0b-a554-2fef33f31697",
+      "createdAt": "2022-08-01T19:55:59.144Z",
+      "updatedAt": "2022-08-01T19:55:59.144Z",
+      "id": "tweet-f5a5470e-bdde-4793-aeca-e98a261d9877"
+    },
+    {
+      "message": "No more re-fetching!",
+      "userId": "user-15a37948-7712-4e0b-a554-2fef33f31697",
+      "createdAt": "2022-08-01T19:56:48.206Z",
+      "updatedAt": "2022-08-01T19:56:48.206Z",
+      "id": "tweet-0f15614b-6096-4771-a539-16267a7cccf1"
     }
   ],
   "users": [
